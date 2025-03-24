@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 - **Languages:** Python, AI
 - **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, Kubernetes
+- **Tools:** Git, Github, Agentic AI, Agents, APIs
 
 ## Projects
 

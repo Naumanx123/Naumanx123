@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** Python, AI
 - **Frameworks:** React, Node.js, Django
 - **Tools:** Git, Docker, Kubernetes
 

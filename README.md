@@ -87,9 +87,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ## Languages Known
 
 - **Python**
-- **JavaScript**
-- **Java**
-- **C++**
+- **c++**
+  
 
 ## Get in Touch
 

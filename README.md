@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ## Skills
 
 - **Languages:** Python, AI
-- **Frameworks:** React, Node.js, Django
+- **Frameworks:** Flask, Fast API, Django
 - **Tools:** Git, Github, Agentic AI, Agents, APIs
 
 ## Projects
